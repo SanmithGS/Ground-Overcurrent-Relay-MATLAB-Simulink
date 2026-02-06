@@ -1,4 +1,4 @@
-# ⚡ Ground Overcurrent Relay  – Simulink Protection Model
+#  Ground Overcurrent Relay  – Simulink Protection Model
 
 Ground fault detection and selective isolation using an **Inverse Time Overcurrent Relay ** built in **MATLAB Simulink**.
 
@@ -41,5 +41,6 @@ Power System Protection • Relay Coordination • Fault Analysis • Simulink M
 
 ---
 
+##  Author
 **Sanmith G S**  
-M.Tech – Smart Electric Grid | NIT Warangal
+M.Tech – Smart Electric Grid | NIT Warangal  
