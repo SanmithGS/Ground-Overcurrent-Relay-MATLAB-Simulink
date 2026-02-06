@@ -43,4 +43,5 @@ Power System Protection • Relay Coordination • Fault Analysis • Simulink M
 
 ##  Author
 **Sanmith G S**  
-M.Tech – Smart Electric Grid | NIT Warangal  
+- M.Tech – Smart Electric Grid , NIT Warangal
+- B.E - Electrical Electronics , BMS College Of Engineering
